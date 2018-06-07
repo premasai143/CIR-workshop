@@ -1,2 +1,218 @@
 hello world
+history:
+
+cd Desktop/
+  108  ls
+  109  mkdir CIR-workshop
+  110  cd CIR-workshop
+  111  cd ..
+  112  pwd
+  113  cd ..
+  114  cd desktop/CIR-workshop
+  115  cd Desktop/CIR-workshop
+  116  man mkdir
+  117  touch test.txt
+  118  ls
+  119  touch a.txt b.txt
+  120  ls
+  121  gedit a.txt 
+  122  cd
+  123  cd Desktop/CIR-workshop
+  124  ls
+  125  mv a.txt b.txt 
+  126  ls
+  127  cd b.txt 
+  128  cp b.txt a.txt
+  129  ls
+  130  man
+  131  man type
+  132  clear
+  133  clear_cosole clusterdb
+  134  clear
+  135  cd Des
+  136  cd ..
+  137  cd Desktop/CIR-workshop
+  138  rm ls
+  139  ls
+  140  rmdir a.txt
+  141  rm a.txt
+  142  ls
+  143  touch atxt
+  144  ls
+  145  touch a.txt
+  146  ls
+  147  rm atxt
+  148  rm a.txt b.txt
+  149  ls
+  150  touch a.txt b.txt
+  151  mkdir Web
+  152  cd Web
+  153  bash/
+  154  clear
+  155  touch c.txt
+  156  ls
+  157  rm c.txt
+  158  cd ..
+  159  touch c.txt
+  160  cp c.txt web/
+  161  cp c.txt Web/
+  162  ls
+  163  cd web
+  164  cd Web
+  165  ls
+  166  cd ..
+  167  mv c.txt Web
+  168  cd Web
+  169  ls
+  170  ls Web
+  171  ls Web/
+  172  cd ..
+  173  ls Web/
+  174  ls--a
+  175  ls-a
+  176  ls -a 
+  177  .
+  178  .a
+  179  clear
+  180  ls --a
+  181  ls --all
+  182  ls -al
+  183  firefox
+  184  ls -a
+  185  man ls
+  186  cd .
+  187  ls -all
+  188  ls -al
+  189  man ls
+  190  ls -d
+  191  c d..
+  192  cd ..
+  193  ls -d
+  194  cd .
+  195  cd CIR-workshop
+  196  man
+  197  man ls
+  198  ls -H
+  199  ls -L
+  200  ls -author
+  201  ssh
+  202  man ssh
+  203  ssh u4cse17214
+  204  man ssh
+  205  ssh examuser
+  206  ssh-w
+  207  ssh-W
+  208  man ssh
+  209  clear
+  210  git init
+  211  ls
+  212  ls -al
+  213  rm git init
+  214  rm gi init
+  215  ls
+  216  ls -al
+  217  cd ..
+  218  mkdir ex
+  219  cd ex
+  220  git init
+  221  ls
+  222  ls -al
+  223  git status
+  224  cd ..
+  225  ls
+  226  cd CIR-workshop/
+  227  ls
+  228  git status
+  229  la
+  230  git dif
+  231  git diff
+  232  touch d.txt
+  233  git status
+  234  git add d.txt
+  235  git status
+  236  git add .
+  237  git status
+  238  gedit test.txt
+  239  git status
+  240  ls
+  241  mv a.txt Web
+  242  touch c.txt
+  243  ls
+  244  ls 
+  245  ls  Web/
+  246  git status
+  247  git .
+  248  git add.
+  249  git add .
+  250  git status
+  251  clear
+  252  git status
+  253  cd ..
+  254  gitrepos/
+  255  git-repos/
+  256  cd CIR-workshop/
+  257  git-repos/
+  258  clear
+  259  cd ..
+  260  git init
+  261  git-repos/
+  262  clear
+  263  cd git-repos
+  264  cd git-repos/
+  265  cd git-repository/
+  266  clear
+  267  echo "# CIR-workshop" >> README.md
+  268  cd git-repository/
+  269  git init
+  270  git add README.md
+  271  ls
+  272  git commit -m "first commit"
+  273  git config --global --edit
+  274  git config --global --username
+  275  git init
+  276  ls
+  277  rm README.md 
+  278  ls
+  279  mkdir git-repos
+  280  cd git-repository/
+  281  cd git-repos/
+  282  echo "# CIR-workshop" >> README.md
+  283  git init
+  284  ls
+  285  git add README.md
+  286  git commit -m "first commit"
+  287  git push -u origin master
+  288  git remote add origin https://github.com/premasai143/CIR-workshop.git
+  289  git push -u origin master
+  290  gedit README.md 
+  291  git status
+  292  git init
+  293  gedit README.md 
+  294  ls
+  295  touch a.txt
+  296  ls
+  297  git add a.txt
+  298  git commit -m "adding a file"
+  299  git status
+  300  ls
+  301  git add a.txt
+  302  git status
+  303  gedit a.txt 
+  304  git add a.txt
+  305  git status
+  306  git add e.txt
+  307  git status
+  308  git commit -m "adding a file"
+  309  git status
+  310  git push -u origin master
+  311  git status
+  312  ls
+  313  git add .
+  314  git status
+  315  touch b.txt
+  316  geit b.txt 
+  317  gedit b.txt 
+  318  git add b.txt 
+  319  git status
+  320  history
 
